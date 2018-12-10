@@ -1,0 +1,24 @@
+name: "Tugba N. Ozturk"
+output_dir: "."
+navbar:
+  title: "Tugba N. Ozturk"
+  left:
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Notes"
+      href: notes.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/tnozturk
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/tugbaoztrk
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/tugba-nur-ozturk-453707137/
+output:
+  html_document:
+    theme: cosmo
+    css: 'style.css'
