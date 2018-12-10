@@ -5,6 +5,11 @@
 
 <img src="figures/tnozturk.jpg" style="width:25%; border:3px solid; margin-right: 20px" align="left">
 
+```{r, echo=FALSE}
+library(emojifont)
+library(blogdown)
+library(emo)
+```
 
 <br> </br>
 Hello,
