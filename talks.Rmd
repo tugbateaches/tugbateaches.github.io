@@ -2,4 +2,12 @@
 output: html_document
 ---
 
-soon~
+
+
+<br> </br>
+<br> </br>
+<br> </br>
+
+- Click [here](files/WanttolearnR.pdf) for my talk in the Department of Psychology, Concordia University.
+
+- Click [here](files/introtodplyr.pdf) for my RLadiesMTL talk on `dplyr`.

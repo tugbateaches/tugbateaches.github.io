@@ -3,14 +3,8 @@ output_dir: "."
 navbar:
   title: "Tugba N. Ozturk"
   left:
-    - text: "Teaching"
-      href: teaching.html
     - text: "Talks"
       href: talks.html
-    - text: "Programming"
-      href: software.html
-    - text: "Notes"
-      href: notes.html
   right:
     - icon: fa-github fa-lg
       href: http://github.com/tnozturk
