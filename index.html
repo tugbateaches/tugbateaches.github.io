@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>index.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -72,9 +72,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -193,8 +190,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -239,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -251,20 +247,17 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -277,12 +270,15 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Tugba N. Ozturk</a>
+      <a class="navbar-brand" href="index.html">Tugba Ozturk</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="talks.html">Talks</a>
+</li>
+<li>
+  <a href="notes.html">Other</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -324,8 +320,8 @@ body {
 text-align: justify}
 </style>
 <p><br> </br> <br> </br> <br> </br> Hello,</p>
-<p>I’m a Postdoctoral Research Associate at the Department of Biochemistry and Molecular Biophysics at Washington University in St Louis. I study how membrane proteins associate within lipid bilayers – yes, I am one of those physicists who are supposed to show you a movie of a protein jiggling in the middle of their talk. I love computational biochemistry/biophysics, coding, teaching &amp; learning and talking about any of these topics!<br />
-<br> </br> I completed my MSc degree (in Computational Sciences and Engineering) at <a href="https://eng.ku.edu.tr/en/academics/interdisciplinary-graduate-programs/computational-sciences-and-engineering/">Koc University</a> and my PhD (in Physics) at <a href="http://www.concordia.ca/artsci/physics.html">Concordia University</a>. My PhD thesis focuses on molecular modelling of ion channels and transporters. <br> </br> My full CV is available <a href="files/tnozturkcv.pdf">here</a>. <br> </br> A quick note about my website: I built it using the amazing tutorial by <a href="http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily C. Zabor</a> ❤️. I like generating documents (tutorials, presentations, websites) with R. I also like the fact that there is an R package called tinytex – I think it’s cute.</p>
+<p>I’m a Postdoctoral Research Associate at the Department of Biochemistry and Molecular Biophysics, Washington University in St Louis. I study how membrane proteins associate within lipid bilayers – yes, it is highly likely that I show you a movie of a protein jiggling half way through my talk. I love computational biophysics, coding, teaching &amp; learning and talking about any of these topics!<br />
+<br> </br> I completed my MSc degree (in Computational Sciences and Engineering) at <a href="https://eng.ku.edu.tr/en/academics/interdisciplinary-graduate-programs/computational-sciences-and-engineering/">Koc University</a> and my PhD (in Physics) at <a href="http://www.concordia.ca/artsci/physics.html">Concordia University</a>. My PhD thesis focuses on molecular modelling of ion channels and transporters. <br> </br> Click <a href="files/tnozturkcv2.pdf">here</a> for my CV. <br> </br> A quick note: I built this website using the amazing tutorial by <a href="http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily C. Zabor</a> ❤️.</p>
 
 
 
@@ -344,6 +340,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
