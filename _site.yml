@@ -1,10 +1,12 @@
-name: "Tugba N. Ozturk"
+name: "Tugba Ozturk"
 output_dir: "."
 navbar:
-  title: "Tugba N. Ozturk"
+  title: "Tugba Ozturk"
   left:
     - text: "Talks"
       href: talks.html
+    - text: "Other"
+      href: notes.html
   right:
     - icon: fa-github fa-lg
       href: http://github.com/tnozturk

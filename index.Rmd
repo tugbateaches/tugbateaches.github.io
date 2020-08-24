@@ -19,10 +19,10 @@ text-align: justify}
 <br> </br>
 Hello,
 
-I'm a Postdoctoral Research Associate at the Department of Biochemistry and Molecular Biophysics at Washington University in St Louis. I study how membrane proteins associate within lipid bilayers -- yes, I am one of those physicists who are supposed to show you a movie of a protein jiggling in the middle of their talk. I love computational biochemistry/biophysics, coding, teaching & learning and talking about any of these topics!   
+I'm a Postdoctoral Research Associate at the Department of Biochemistry and Molecular Biophysics, Washington University in St Louis. I study how membrane proteins associate within lipid bilayers -- yes, it is highly likely that I show you a movie of a protein jiggling half way through my talk. I love computational biophysics, coding, teaching & learning and talking about any of these topics!   
 <br> </br>
 I completed my MSc degree (in Computational Sciences and Engineering) at [Koc University](https://eng.ku.edu.tr/en/academics/interdisciplinary-graduate-programs/computational-sciences-and-engineering/) and my PhD (in Physics) at [Concordia University](http://www.concordia.ca/artsci/physics.html). My PhD thesis focuses on molecular modelling of ion channels and transporters. 
 <br> </br>
-My full CV is available [here](files/tnozturkcv.pdf).
+Click [here](files/tnozturkcv2.pdf) for my CV.
 <br> </br>
-A quick note about my website: I built it using the amazing tutorial by [Emily C. Zabor](http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html) `r emo::ji("heart")`. I like generating documents (tutorials, presentations, websites) with R. I also like the fact that there is an R package called tinytex -- I think it's cute.
+A quick note: I built this website using the amazing tutorial by [Emily C. Zabor](http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html) `r emo::ji("heart")`.
