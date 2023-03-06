@@ -19,7 +19,7 @@ text-align: justify}
 <br> </br>
 Hello,
 
-I'm a Postdoctoral Research Associate at the Department of Biochemistry and Molecular Biophysics, Washington University in St Louis. I study how membrane proteins associate within lipid bilayers -- yes, it is highly likely that I show you a movie of a protein jiggling half way through my talk. I love computational biophysics, coding, teaching & learning and talking about any of these topics!   
+I'm a Postdoctoral Research Associate at Lawrence Livermore National Laboratory in Livermore, California. I study how membrane proteins associate within lipid bilayers -- yes, it is highly likely that I show you a movie of a protein jiggling half way through my talk. I love computational biophysics, coding, teaching & learning and talking about any of these topics!   
 <br> </br>
 I completed my MSc degree (in Computational Sciences and Engineering) at [Koc University](https://eng.ku.edu.tr/en/academics/interdisciplinary-graduate-programs/computational-sciences-and-engineering/) and my PhD (in Physics) at [Concordia University](http://www.concordia.ca/artsci/physics.html). My PhD thesis focuses on molecular modelling of ion channels and transporters. 
 <br> </br>
